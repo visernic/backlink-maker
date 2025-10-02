@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://visernic.com/storage/2025/03/logo.png" alt="Visernic Limited Logo" width="80">
-  <h1>Visernic Backlink Maker - Pro Demo</h1>
+  <h1>Backlink Maker - Demo</h1>
   <p>A professional and creative front-end simulation of a backlink generator tool.</p>
   <p>
     <a href="https://visernic.github.io/backlink-maker"><strong>View Live Demo »</strong></a>
